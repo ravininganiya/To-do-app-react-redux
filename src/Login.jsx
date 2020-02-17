@@ -16,7 +16,7 @@ const Login = props => {
     {
       /*LIST OF USERS */
     }
-    localStorage.setItem("username1", "videsh");
+    localStorage.setItem("username1", "ravi");
     localStorage.setItem("password1", "1234");
     localStorage.setItem("username2", "test1");
     localStorage.setItem("password2", "12345");
